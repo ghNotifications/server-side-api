@@ -2,7 +2,7 @@
     "name": "server-side-api",
     "version": "0.0.1",
     "dependencies": {
-        "espress": "3.4.x",
+        "express": "3.4.x",
         "passport": "0.1.x",
         "passport-github": "0.1.x",
         "connect-ensure-login": "0.1.x"
