@@ -1,0 +1,5 @@
+# node modules directory
+node_modules/
+
+# swap vim files
+*.swp
