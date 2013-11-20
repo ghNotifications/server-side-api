@@ -3,3 +3,6 @@ node_modules/
 
 # swap vim files
 *.swp
+
+# GitHub app credentials
+credentials/index.js
